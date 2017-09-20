@@ -1,0 +1,7 @@
+platform :ios,'8.0'
+
+target "iOS_JSON" do
+
+pod 'YYModel', '~> 1.0.4'
+
+end
